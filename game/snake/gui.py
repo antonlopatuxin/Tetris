@@ -1,6 +1,6 @@
 import pygame
 
-class GUI():
+class GUI:
     def __init__(self):
         """Данный список это игровое поле где 0 это квадрат,а 1 это пустое место"""
         self.level = [
